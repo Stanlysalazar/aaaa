@@ -8,12 +8,7 @@
     android:orientation="vertical"
     android:background="#b2dafa"
     >
-    <ImageView
-        android:id="@+id/LogoImage"
-        android:layout_width="match_parent"
-        android:layout_height="100dp"
-        android:textAlignment="center"
-        android:src="@drawable/carro"/>
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -45,9 +40,9 @@
         android:layout_marginTop="5dp"
         android:layout_marginEnd="40dp"
         android:hint="Ingresa la identificacion"
-        android:textColor="#022249"
+
         android:backgroundTint="@color/white"
-        android:textColorHint="#022249"
+
         android:textSize="15dp"/>
     <TextView
         android:layout_width="match_parent"
@@ -69,9 +64,9 @@
         android:layout_marginTop="5dp"
         android:layout_marginEnd="40dp"
         android:hint="Ingresa el usuario"
-        android:textColor="#022249"
+
         android:backgroundTint="@color/white"
-        android:textColorHint="#022249"
+
         android:textSize="15dp"/>
     <TextView
         android:layout_width="match_parent"
@@ -93,9 +88,9 @@
         android:layout_marginTop="5dp"
         android:layout_marginEnd="40dp"
         android:hint="Ingresa la placa"
-        android:textColor="#022249"
+
         android:backgroundTint="@color/white"
-        android:textColorHint="#022249"
+
         android:textSize="15dp"/>
     <TextView
         android:layout_width="match_parent"
