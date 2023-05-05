@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "700220306334",
+    "project_id": "fir-rentaautos",
+    "storage_bucket": "fir-rentaautos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700220306334:android:1acedf0fd729cedfac1c8f",
+        "android_client_info": {
+          "package_name": "com.example.renta_de_autos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700220306334-gkv6to2hficndv0klqmau3kcf6bn6gv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADdNNs5W6dCVRS26fgjGky-ObnuHFSc8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700220306334-gkv6to2hficndv0klqmau3kcf6bn6gv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700220306334:android:8630761879cd30d4ac1c8f",
+        "android_client_info": {
+          "package_name": "com.example.rentaautos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700220306334-c1pd8t6dg1n75u5dn3g83adrfp3vbamm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rentaautos",
+            "certificate_hash": "42aade78d99fba1ea998d4a336f36f08d55447a7"
+          }
+        },
+        {
+          "client_id": "700220306334-gkv6to2hficndv0klqmau3kcf6bn6gv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADdNNs5W6dCVRS26fgjGky-ObnuHFSc8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700220306334-gkv6to2hficndv0klqmau3kcf6bn6gv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700220306334:android:2572bfed5d212a4eac1c8f",
+        "android_client_info": {
+          "package_name": "com.example.rentaautos_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700220306334-gkv6to2hficndv0klqmau3kcf6bn6gv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADdNNs5W6dCVRS26fgjGky-ObnuHFSc8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700220306334-gkv6to2hficndv0klqmau3kcf6bn6gv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
